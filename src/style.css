@@ -16,16 +16,8 @@ body {
 }
 
 .clase1 {
-  color: black;
+  color: rgb(235, 231, 231);
   font-size: 18px;
   font-weight: 400;
   text-align: center;
-  background: #868484;
-  margin: 0 0 25px;
-  overflow: hidden;
-  padding: 20px;
-  border-radius: 35px 0px 35px 0px;
-  -moz-border-radius: 35px 0px 35px 0px;
-  -webkit-border-radius: 35px 0px 35px 0px;
-  border: 6px solid #ffffff;
 }
